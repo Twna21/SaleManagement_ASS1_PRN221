@@ -1,0 +1,15 @@
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\bin\Debug\net7.0\BusinessObject.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\bin\Debug\net7.0\BusinessObject.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.csproj.Up2Date
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

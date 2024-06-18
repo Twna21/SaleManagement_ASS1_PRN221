@@ -1,0 +1,14 @@
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\bin\Debug\net7.0\SaleMangementLibrary.deps.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\bin\Debug\net7.0\SaleMangementLibrary.runtimeconfig.json
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\bin\Debug\net7.0\SaleMangementLibrary.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\bin\Debug\net7.0\SaleMangementLibrary.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.csproj.AssemblyReference.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.AssemblyInfoInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.AssemblyInfo.cs
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.csproj.CoreCompileInputs.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\refint\SaleMangementLibrary.dll
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.pdb
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\SaleMangementLibrary.genruntimeconfig.cache
+D:\FPT Course\Summer2024\PRN221\Code\Class\SalesManagement\SaleMangementLibrary\obj\Debug\net7.0\ref\SaleMangementLibrary.dll
